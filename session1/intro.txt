@@ -1,0 +1,10 @@
+Wifi: MindX Space
+Pass: incubatorofchange
+
+Tải về máy:
+1. visual studio code
+2. git for windows
+
+
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
