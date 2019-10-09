@@ -1,0 +1,18 @@
+body{
+    background-color: #9c9cf8;
+}
+h1{
+    color: aqua !important;
+}
+.tag-h1-first{
+    text-decoration: underline;
+}
+#tag-h2-first{
+    font-size: 30px;
+}
+.class-thu-2{
+    color: crimson;
+}
+ul > li{
+    color: darkred;
+}
